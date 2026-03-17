@@ -10,7 +10,7 @@
   <p>
     <?php
 
-    $personal_data=['name'=>'onion','price'=>200,'wight'=>'160'];
+    $personal_data=['name'=>'onion','price'=>200,'weight'=>160];
 
 
     print_r($personal_data);
